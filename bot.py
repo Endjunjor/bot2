@@ -22,4 +22,4 @@ async def on_ready():
 		print(error)
 
 
-bot.run("NDgyNTMyNDk4NDQyODEzNDYx.W3__aA.gdVVMwDxdoDynGppfDDcfKP_-1M")
+bot.run(Token)
