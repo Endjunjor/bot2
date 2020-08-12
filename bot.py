@@ -22,4 +22,4 @@ async def on_ready():
 		print(error)
 
 
-bot.run(Token)
+bot.run(KEY)
